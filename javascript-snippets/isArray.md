@@ -6,7 +6,7 @@ function isArray(o) {
 }
 ```
 
-##long long age
+##long long ago
 
 '''js
 typeof new Function() // function
